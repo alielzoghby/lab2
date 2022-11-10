@@ -1,1 +1,1 @@
-![Alt text](C:\Users\alisd\OneDrive\Desktop\git\OS-GROUP-A\images "Optional title")
+![Alt text](lab2/images/git-icon.png "Optional title")
